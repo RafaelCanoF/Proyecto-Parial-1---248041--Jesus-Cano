@@ -56,6 +56,12 @@ a:hover{
     
   }
 
+footer a:hover{
+    transition: 250ms;
+    background-color: #000000;
+    color: #ffffff;
+    
+  }
   .banner{
     margin: 0; 
     position: relative;
